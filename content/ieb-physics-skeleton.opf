@@ -19,7 +19,7 @@
 <item id="chapter-9" href="10-PhotoElectricEffectAndEmissionSpectra.cnxmlplus.html" media-type="application/xhtml+xml"/>
 <item id="chapter-10" href="template.cnxmlplus.html" media-type="application/xhtml+xml"/>
 <item id="nav" href="ieb-physics-skeleton-nav.html" media-type="application/xhtml+xml" properties="nav"/>
-</manifest><spine>
+<item href="untitled-85b51842-2537-4695-9364-56043b503275-nav.html" id="untitled-85b51842-2537-4695-9364-56043b503275-nav.html" media-type="application/xhtml+xml"/><item href="module1-cc235141-4836-4d5d-bff4-674e016d0abc.html" id="module1-cc235141-4836-4d5d-bff4-674e016d0abc.html" media-type="application/xhtml+xml"/></manifest><spine>
 <itemref idref="intro"/>
 <itemref idref="chapter-0"/>
 <itemref idref="chapter-1"/>
